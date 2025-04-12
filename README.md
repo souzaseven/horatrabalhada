@@ -1,6 +1,6 @@
 # ⏰ Calculadora de Horas Trabalhadas
 
-![Preview da Calculadora](https://via.placeholder.com/800x400/007ced/ffffff?text=Calculadora+de+Horas)
+<img src="https://github.com/souzaseven/horatrabalhada/blob/Desafios/Hora%20trabalhada/horatrabalhada.png?raw=true" width="30%" alt="Preview da Calculadora">
 
 Ferramenta web para cálculo preciso de horas trabalhadas, incluindo turnos e intervalos, com detecção automática de horas extras.
 
